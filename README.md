@@ -60,7 +60,7 @@ Anti Manipulation Brigade is a web extension developed for detecting dark patter
 ## 4. Architecture
 ### 4.1 Overview
 The architecture consists of a backend server (Flask), a browser extension frontend, and a dark pattern detection algorithm.
-###4.2 Components
+### 4.2 Components
 •	Backend (Flask): Handles communication between the browser extension and the dark pattern detection algorithm.
 •	Browser Extension: Provides a user interface for interacting with the extension and displaying detected patterns.
 •	Dark Pattern Detection Algorithm: Utilizes machine learning models trained on the Kaggle dataset to identify manipulative design elements.
@@ -72,7 +72,7 @@ The Kaggle dataset provides a diverse set of examples for training the dark patt
 Additional data from Joblib is used to enhance the accuracy of the detection algorithm. This dataset includes specific patterns related to job-related manipulations.
 
 ## 6. Future Enhancements
-###6.1 User Feedback
+### 6.1 User Feedback
 Collect user feedback to improve the detection algorithm and address false positives/negatives.
 ### 6.2 Additional Patterns
 Expand the dark pattern detection algorithm to identify new and evolving manipulative practices.

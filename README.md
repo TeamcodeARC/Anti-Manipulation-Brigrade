@@ -23,7 +23,7 @@
 7.	Acknowledgments
 8.	Contact Information
 
-#1. Introduction
+# 1. Introduction
 ### 1.1 Purpose
 Anti Manipulation Brigade is a web extension developed for detecting dark patterns on ecommerce websites. Dark patterns are deceptive user interface design elements that manipulate users into taking actions they might not otherwise perform, such as making unintended purchases or subscribing to services unknowingly. The goal of this project is to empower users to identify and avoid such manipulative practices.
 ### 1.2 Features

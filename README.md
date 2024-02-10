@@ -51,10 +51,13 @@ Anti Manipulation Brigade is a web extension developed for detecting dark patter
 ## 3. Usage
 ### 3.1 Browser Extension
 •	Once installed, the Anti Manipulation Brigade extension icon will appear in your browser toolbar.
+
 •	Click on the icon to open the extension interface and access settings.
 ### 3.2 Detection Process
 •	Visit an ecommerce website.
+
 •	The extension will automatically scan the webpage for dark patterns.
+
 •	Detected patterns will be highlighted, and relevant information will be displayed to the user.
 
 ## 4. Architecture
